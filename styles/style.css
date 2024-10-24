@@ -239,7 +239,7 @@ div.controls a:hover {
 .image-container a img {
     width: 285px;
     height: 285px;
-    
+
     border-radius: 20px;
     align-items: center;
 }
@@ -380,5 +380,12 @@ div.controls a:hover {
 
     .footer .dark-link {
         color: gray;
+    }
+
+}
+
+@media (max-width: 920px) {
+    #register-header {
+        font-size: 24;
     }
 }

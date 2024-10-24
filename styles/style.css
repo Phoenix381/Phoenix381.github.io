@@ -283,10 +283,12 @@ div.controls a:hover {
 .mail {
     text-decoration: none;
     font-family: "Inter-light";
+
+    color: #369FFF;
 }
 
 .mail:visited {
-    color: blue;
+    color: #369FFF;
 }
 
 @media screen and (max-width: 1220px) {
